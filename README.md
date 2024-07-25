@@ -17,4 +17,4 @@ To run the program:
 ./PCGMST
 ```
 
-To modify the test pc-gmspt instances set and the relevant parameters of the algorithm, you can modify the various parameters in the main function of pcgmstp.cpp.# memetic-algorithm-for-PCGMSTP
+To modify the test pc-gmspt instances set and the relevant parameters of the algorithm, you can modify the various parameters in the main function of pcgmstp.cpp.
